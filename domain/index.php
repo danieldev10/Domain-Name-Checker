@@ -12,6 +12,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=7">
     <meta charset="UTF-8">
     <meta name="description" content="Domain Name Checker">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
