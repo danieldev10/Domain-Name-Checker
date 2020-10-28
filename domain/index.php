@@ -62,7 +62,7 @@
     ?>
     <br>
     <footer class="page-footer font-small blue">
-        <div class="footer-copyright text-center py-3">© <?php echo date("Y"); ?>Made by 
+        <div class="footer-copyright text-center py-3">© <?php echo date("Y"); ?> Made by 
             <a href="https://twitter.com/iamdanieltk">Daniel</a>
         </div>
     </footer>
