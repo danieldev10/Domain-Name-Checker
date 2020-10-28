@@ -53,9 +53,6 @@
                         <a class='btn btn-primary' role='button' href='https://www.bluehost.com/registration?__token_timestamp__=1603840342&__token_val__=40ee1cdac45898bd440f0a87946ebf9f&flow=domainDFETwoCta&search=$domain&submit=#/domainDFETwoCta/1'>Bluehost</a>
                     </div>
                     <div class='five'>
-                        <a class='btn btn-warning' role='button' href='https://portal.hostgator.com/domain/purchase/registration/achonma/SNAPPY?__token_timestamp__=1603840669&__token_val__=03fe4d1d7169014c29be28270dd6a9e7&search=$domain&submit='>Hostgator</a>
-                    </div>
-                    <div class='six'>
                         <a class='btn btn-success' role='button' href='https://www.name.com/domain/search/$domain'>Name.com</a>
                     </div>
                 </div>
