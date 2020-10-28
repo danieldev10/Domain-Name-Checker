@@ -60,7 +60,12 @@
         }
     }
     ?>
-    </div>
+    <br>
+    <footer class="page-footer font-small blue">
+        <div class="footer-copyright text-center py-3">© 2020 Made by 
+            <a href="https://twitter.com/iamdanieltk">Daniel</a>
+        </div>
+    </footer>
 </body>
 
 </html>
